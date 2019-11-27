@@ -1,4 +1,4 @@
-// Class for parsing JS strings
+// Class for parsing JSON strings
 
 class JSONParser{
 
